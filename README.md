@@ -36,12 +36,12 @@ sejam bem-vindos ao meu perfil,atualmento estou no ensino medio,cursando informa
 
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunawaltrick46-droid&theme=react" width="420"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunawaltrick46-droid&theme=react" width="420"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunawaltrick46-droid&theme=react" width="320"/>
   </p>
 
   <p>
-    <img src="https://github.com/user-attachments/assets/36e6eef9-da87-4cb4-8224-2628bb1fe497" width="420"/>
-    <img src="https://github.com/user-attachments/assets/4c0dcb8b-5e4b-4867-9f79-f7e90625d130" width="420"/>
+    <img src="https://github.com/user-attachments/assets/36e6eef9-da87-4cb4-8224-2628bb1fe497" width="320"/>
+    <img src="https://github.com/user-attachments/assets/4c0dcb8b-5e4b-4867-9f79-f7e90625d130" width="320"/>
   </p>
 
 </div>
@@ -50,7 +50,7 @@ sejam bem-vindos ao meu perfil,atualmento estou no ensino medio,cursando informa
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode" width="300" />
 </p>
 
 # 📂 Projetos
