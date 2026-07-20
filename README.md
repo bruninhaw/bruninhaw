@@ -1,22 +1,18 @@
+
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Stack+Sans+Headline&size=34&pause=1000&color=54A0CA&width=435&lines=+Ol%C3%A1+sou+a+Bruna+Waltrick%F0%9F%91%8B" alt="Typing SVG" /></a>
+
 <p align="center">
   <img src= "https://media.tenor.com/kC5C2jxymcIAAAAM/butterfly-blue.gif" width:"300%">
   </p> 
 
-  
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&pause=1000&color=217397&width=435&lines=+Ol%C3%A1+sou+a+Bruna+Waltrick%F0%9F%91%8B" alt="Typing SVG" /></a>  
-
 sejam bem-vindos ao meu perfil,atualmento estou no ensino medio,cursando informatica no CEDUP Renato Ramos.
 
-# 📚 Estudando
+# Sobre mim
 
 - Cursando TEC em informatica 2/3
-- java
-- html e css
-- JavaScript
-- Git e GitHub
-- Lógica de Programação
-- Desenvolvimento Web
-- Desenvolvimento de software
+- Estou buscando o meu melhor a cada dia
+- Pronomes: ela/dela
+- Curiosidade: Eu canto
   
 # 🌐 Redes Sociais
 
