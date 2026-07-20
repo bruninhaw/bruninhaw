@@ -3,7 +3,7 @@
   </p> 
 
   
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=40&pause=1000&color=217397&width=435&lines=+Ol%C3%A1+sou+a+Bruna+Waltrick%F0%9F%91%8B" alt="Typing SVG" /></a>
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=30&pause=1000&color=217397&width=435&lines=+Ol%C3%A1+sou+a+Bruna+Waltrick%F0%9F%91%8B" alt="Typing SVG" /></a>  
 
 sejam bem-vindos ao meu perfil,atualmento estou no ensino medio,cursando informatica no CEDUP Renato Ramos.
 
